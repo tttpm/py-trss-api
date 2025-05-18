@@ -12,14 +12,16 @@ authors = [
 ]
 description = "Simple module for interaction with Team Run Skin Storage database."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.6"
 classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
 ]
 license = "MIT"
 license-files = ["LICEN[CS]E*"]
+dependencies = [
+  "requests"
+]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/tttpm/py-trss-api"
