@@ -31,4 +31,4 @@ Some actions require authentication with *token* - unique user identifier. To ge
 {'state': 1}
 ```
 
-You can see full documentation [here](docs.md).
+You can see full documentation in docs.md file.
